@@ -1,0 +1,10 @@
+Metric,Synthetic,Real
+Dataset,Synthetic (Generated),Real IBM Telco
+Samples,1000,7043
+Features,9,19
+Churn Rate (%),41.4,26.54
+Accuracy (%),76.0,78.99
+AUC-ROC,0.8389,0.8212
+Precision (Churn),0.73,0.64
+Recall (Churn),0.66,0.48
+F1-Score (Churn),0.7,0.55

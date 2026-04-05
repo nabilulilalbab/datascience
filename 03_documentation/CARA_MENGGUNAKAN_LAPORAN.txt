@@ -1,0 +1,50 @@
+════════════════════════════════════════════════════════════════════════════
+                   PANDUAN PENGGUNAAN LAPORAN PRAKTIKUM
+════════════════════════════════════════════════════════════════════════════
+
+FILE LAPORAN:
+  Laporan_Praktikum_Data_Science_Customer_Churn_Prediction.docx
+
+CARA MEMBUKA:
+  1. Buka file dengan Microsoft Word (2016 atau lebih baru)
+  2. Atau gunakan LibreOffice Writer (gratis)
+  3. Atau Google Docs (upload file ke Google Drive)
+
+KONTEN LAPORAN:
+  ✓ 5 BAB lengkap dengan struktur akademik formal
+  ✓ 139 paragraf dengan bahasa teknis objektif
+  ✓ 6 tabel dengan data faktual dari eksekusi program
+  ✓ 5 referensi jurnal peer-reviewed (format APA)
+  ✓ Rumus matematika statistika
+  ✓ Analisis mendalam hasil eksperimen
+
+STRUKTUR:
+  BAB I   - PENDAHULUAN (Latar belakang, tujuan, manfaat)
+  BAB II  - LANDASAN TEORI (5 sub-bab dengan referensi jurnal)
+  BAB III - METODE PENELITIAN (Detail prosedur 6 tahapan)
+  BAB IV  - HASIL DAN PEMBAHASAN (Data faktual + analisis)
+  BAB V   - KESIMPULAN DAN SARAN (5+5 poin)
+  DAFTAR PUSTAKA (5 referensi)
+
+CUSTOMISASI YANG MUNGKIN DIPERLUKAN:
+  □ Tambahkan nama praktikan di halaman judul
+  □ Tambahkan NIM/kelas jika diperlukan
+  □ Sesuaikan tanggal pelaksanaan praktikum
+  □ Tambahkan logo institusi jika diperlukan
+  □ Tambahkan lembar pengesahan jika diperlukan
+
+KELEBIHAN LAPORAN INI:
+  ✓ Menggunakan data FAKTUAL dari eksekusi program
+  ✓ Accuracy: 76.00%, AUC: 0.8389 (real results)
+  ✓ Confusion Matrix dengan angka sebenarnya
+  ✓ Referensi jurnal VALID dari folder jurnal/
+  ✓ Bahasa akademik tanpa emoji/kata berlebihan
+  ✓ Format profesional dengan tabel terstruktur
+
+CATATAN:
+  - Laporan ini dibuat berdasarkan hasil eksekusi nyata churn_prediction.py
+  - Semua angka dan statistik adalah hasil aktual, bukan contoh
+  - Referensi jurnal sesuai dengan file PDF di folder jurnal/
+  - Format sudah sesuai standar laporan praktikum akademik
+
+════════════════════════════════════════════════════════════════════════════
