@@ -3,7 +3,7 @@ venv/
 env/
 ENV/
 .venv/
-
+03_documentation/
 # Python
 __pycache__/
 *.py[cod]
@@ -44,3 +44,5 @@ Thumbs.db
 
 # Project specific
 tmp_rovodev_*
+
+
